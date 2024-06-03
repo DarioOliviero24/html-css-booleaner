@@ -20,3 +20,24 @@ H1{
 .P1{
     font-size: 25px;
 }
+.ul{
+    margin: 15px;
+}
+.table{
+    border-collapse: collapse;
+    margin-left: 15px;
+}
+
+.tabella th { 
+    border: 5px solido #FDFCFC;
+    padding: 10px;
+    background: #2A7CBB;
+    width: 450px;
+    color: aliceblue;
+}
+.div-op {
+        background: white;
+        color: black;
+        opacity: 0.5
+}
+

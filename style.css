@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.div-con-img{
+    background-color: cornflowerblue;
+    background-image: url(./img/pattern1.png);
+    height: 200px;
+}
+H1{
+    font-size: 65px;
+}
+.Color{
+    color: cornflowerblue;
+}
+#Logo{
+    width: 250px;
+    height: 250px;
+}
